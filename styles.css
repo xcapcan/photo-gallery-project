@@ -12,6 +12,7 @@ h1 {
   color: white;
   display: flex;
   justify-content: center;
+  padding: 50px;
 }
 div {
   display: flex;
